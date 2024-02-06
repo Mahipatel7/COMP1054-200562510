@@ -1,0 +1,121 @@
+body {
+    background-color: #ffffff;
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    border-top: 2px solid #333;
+    border-bottom: 2px solid #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.part1{
+    color:#0066cc;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.part2{
+    color:#cc2900;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.part3{
+    color:#cc9c00;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.part4{
+    color:#52cc00;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.part5{
+    color:#00cc44;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.part6{
+    color:#00cc7e;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.part7{
+    color:#00ccaa;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.part8{
+    color:#00becc;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.part9{
+    color:#1400cc;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.part10{
+    color:#6900cc;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.part11{
+    color:#aa00cc;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.part12{
+    color:#cc005f;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+li {
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', serif; /* Change this to your preferred font */
+}
+
+footer {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    border-top: 2px solid #333;
+    border-bottom: 2px solid #333;
+}
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
